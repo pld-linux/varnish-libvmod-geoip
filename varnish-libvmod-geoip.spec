@@ -6,7 +6,7 @@
 Summary:	GeoIP Varnish module by Varnish Software
 Name:		varnish-libvmod-%{vmod}
 Version:	0.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Daemons
 Source0:	https://github.com/varnish/libvmod-geoip/archive/libvmod-%{vmod}-%{version}.tar.gz
